@@ -16,7 +16,7 @@ DuelReset.Cooldowns = 1
 DuelReset.HealthMana = 1
 
 #    DuelReset.CooldownAge
-#        Description: Required time of a cooldown passed for it to be reset. Measured in seconds since the cooldown started.
+#        Description: 重置所需的冷却时间。 自冷却开始后以秒为单位测量。
 #        Default:     30  - (Enabled)
 #                     0  - (Disabled)
 
